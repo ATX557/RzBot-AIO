@@ -1,0 +1,23 @@
+# 🌎 CORE DISCORD & ASYNC
+discord.py==2.4.0
+aiohttp>=3.9.0
+python-dotenv>=1.0.1
+
+# 🗄️ DATABASE SYSTEMS (SQL & NOSQL)
+motor>=3.3.0
+pymongo>=4.6.0
+aiosqlite>=0.20.0
+
+# 📊 SYSTEM & UTILITIES
+psutil>=5.9.0
+requests>=2.31.0
+humanize>=4.9.0
+orjson>=3.10.0
+
+# 🎨 IMAGES & GRAPHICS
+pillow>=10.2.0
+qrcode>=7.4.2
+
+# 🪵 LOGGING & VALIDATION
+loguru>=0.7.2
+pydantic>=2.6.0
